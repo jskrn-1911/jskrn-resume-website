@@ -10,6 +10,7 @@ html, body {
   background-color: #0e0a0d;
   color: #d8d2d2;
   line-height: 1.6;
+  padding: 10px 35px;
   scroll-behavior: smooth;
 }
 
