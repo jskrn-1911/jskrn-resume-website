@@ -1,0 +1,27 @@
+.container {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .navigationSection {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+
+  
+  .Link:hover {
+    color: rgb(235, 3, 3);
+  }
+  
+  .activeLink {
+    padding: 10px;
+    text-decoration: none;
+    color: blue; /* Highlight color for active link */
+    font-weight: bold; /* Optional: make the active link stand out more */
+  }
+  
